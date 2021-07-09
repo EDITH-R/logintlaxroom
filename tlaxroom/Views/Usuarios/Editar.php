@@ -34,7 +34,7 @@
                                         <option value="Administrador" <?php if ($data['rol'] == "Administrador") {
                                                                             echo "selected";
                                                                         } ?>>Administrador</option>
-                                        <option value="Vendedor" <?php if ($data['rol'] == "Invitado") {
+                                        <option value="Invitado" <?php if ($data['rol'] == "Invitado") {
                                                                         echo "selected";
                                                                     } ?>>Invitado</option>
                                     </select>

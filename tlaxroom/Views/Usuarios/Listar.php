@@ -117,7 +117,7 @@
                             <label for="rol">Rol</label>
                             <select id="rol" class="form-control" name="rol">
                                 <option value="Administrador">Administrador</option>
-                                <option value="Vendedor">Invitado</option>
+                                <option value="Invitado">Invitado</option>
                             </select>
                         </div>
                     </div>

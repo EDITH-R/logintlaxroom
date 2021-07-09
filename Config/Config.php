@@ -1,5 +1,5 @@
 <?php
-   const URL = "http://localhost/logintlaxroom/";
+   const URL = "https://login-tlaxroom.herokuapp.com/;
    //Zona horaria
    date_default_timezone_set('America/Mexico_City');
    //Datos de conexión a Base de Datos
